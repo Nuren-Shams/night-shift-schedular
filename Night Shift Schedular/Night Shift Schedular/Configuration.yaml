@@ -1,0 +1,5 @@
+Day Shift:
+    - "./Scripts/Day_Shift/Terminal_Profiler.scpt"
+
+Night Shift:
+    - "./Scripts/Night_Shift/Terminal_Profiler.scpt"
