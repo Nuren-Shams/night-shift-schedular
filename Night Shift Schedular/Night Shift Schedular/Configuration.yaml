@@ -1,5 +1,7 @@
 Day Shift:
-    - "./Scripts/Day_Shift/Terminal_Profiler.scpt"
+    - "/Users/nuren_shams/Projects/night-shift-schedular/Night Shift Schedular/Night Shift Schedular/Scripts/Day_Shift/Terminal Profiler.scpt"
+    - "/Users/nuren_shams/Projects/night-shift-schedular/Night Shift Schedular/Night Shift Schedular/Scripts/Day_Shift/Terminal_Profiler.sh"
 
 Night Shift:
-    - "./Scripts/Night_Shift/Terminal_Profiler.scpt"
+    - "/Users/nuren_shams/Projects/night-shift-schedular/Night Shift Schedular/Night Shift Schedular/Scripts/Night_Shift/Terminal Profiler.scpt"
+    - "/Users/nuren_shams/Projects/night-shift-schedular/Night Shift Schedular/Night Shift Schedular/Scripts/Night_Shift/Terminal_Profiler.sh"
